@@ -1,0 +1,944 @@
+Recipe: Peanut Butter Banana Toast
+Category: Breakfast
+Calories: 300
+Carbs: 35g
+Protein: 15g
+Fats: 15g
+Dietary Tags: Vegetarian
+Ingredients: Whole wheat bread (1 slice), peanut butter (1 tbsp), banana (1/2), honey drizzle
+
+Recipe: Vegetarian Breakfast Burrito
+Category: Breakfast
+Calories: 350
+Carbs: 40g
+Protein: 15g
+Fats: 15g
+Dietary Tags: Vegetarian
+Ingredients: 1 large whole wheat tortilla, Scrambled eggs (2), Black beans (1/4 cup), Sautéed bell peppers and onions (1/4 cup)
+
+Recipe: Greek Yogurt Bowl
+Category: Breakfast
+Calories: 250
+Carbs: 35g
+Protein: 15g
+Fats: 10g
+Dietary Tags: Vegetarian
+Ingredients: Greek yogurt (1 cup), mixed berries (1/2 cup), honey drizzle, chopped nuts (1 oz)
+
+Recipe: Mango Coconut Yogurt Bowl
+Category: Breakfast
+Calories: 240
+Carbs: 30g
+Protein: 10g
+Fats: 10g
+Dietary Tags: Vegetarian
+Ingredients: Greek yogurt (1/2 cup), Fresh mango chunks (1/4 cup), Shredded coconut (1 tbsp), Chia seeds (1 tsp), Honey drizzle 
+
+Recipe: Vegetarian Breakfast Sandwich
+Category: Breakfast
+Calories: 320
+Carbs: 30g
+Protein: 15g
+Fats: 15g
+Dietary Tags: Vegetarian
+Ingredients: Whole wheat English muffin, Scrambled eggs (1), Avocado (1/4), Sliced tomato, Baby spinach, Swiss cheese slice
+
+Recipe: Veggie Breakfast Hash
+Category: Breakfast
+Calories: 350
+Carbs: 40g
+Protein: 15g
+Fats: 15g
+Dietary Tags: Vegetarian
+Ingredients: Potatoes (1 medium, diced), Bell peppers (1/2 cup, diced), Onion (1/4 cup, diced), Spinach (1/2 cup), Eggs (2), Olive oil (1 tbsp), Salt, pepper, Paprika
+
+Recipe: Veggie Breakfast Hash
+Category: Breakfast
+Calories: 350
+Carbs: 40g
+Protein: 15g
+Fats: 15g
+Dietary Tags: Vegetarian
+Ingredients: Potatoes (1 medium, diced), Bell peppers (1/2 cup, diced), Onion (1/4 cup, diced), Spinach (1/2 cup), Eggs (2), Olive oil (1 tbsp), Salt, pepper, Paprika
+
+Recipe: Vegan Breakfast Tacos
+Category: Breakfast
+Calories: 270
+Carbs: 35g
+Protein: 10g
+Fats: 10g
+Dietary Tags: Vegan
+Ingredients: Whole wheat tortillas, Tofu scramble (seasoned tofu), Sautéed veggies (bell peppers, onions), Salsa
+
+Recipe: Vegan Apple Cinnamon Overnight Oats
+Category: Breakfast
+Calories: 250
+Carbs: 45g
+Protein: 6g
+Fats: 5g
+Dietary Tags: Vegan
+Ingredients: Rolled oats (1/2 cup), Almond milk (1/2 cup), Apple slices, Chopped walnuts (1 tbsp), Cinnamon, Maple syrup
+
+Recipe: Vegan Pomegranate Breakfast Bowl
+Category: Breakfast
+Calories: 260
+Carbs: 40g
+Protein: 5g
+Fats: 9g
+Dietary Tags: Vegan
+Ingredients: Pomegranate seeds (1/2 cup), Cooked quinoa (1/2 cup), Chopped pistachios (1 tbsp), Coconut flakes (1 tbsp), Almond milk (1/4 cup)
+
+Recipe: Vegan Raspberry Chia Jam on Toast
+Category: Breakfast
+Calories: 220
+Carbs: 35g
+Protein: 4g
+Fats: 8g
+Dietary Tags: Vegan
+Ingredients: Whole wheat bread (1 slice), Fresh raspberries (1/2 cup), Chia seeds (1 tbsp), Maple syrup
+
+Recipe: Avocado Toast
+Category: Breakfast
+Calories: 200
+Carbs: 15g
+Protein: 2g
+Fats: 15g
+Dietary Tags: Vegan
+Ingredients: Whole wheat bread (1 slice), avocado (1/4), salt, pepper
+
+Recipe: Chickpea Scramble
+Category: Breakfast
+Calories: 300
+Carbs: 35g
+Protein: 15g
+Fats: 10g
+Dietary Tags: Vegan
+Ingredients: Canned chickpeas (1 cup, drained and rinsed), Spinach (1/2 cup), Red bell pepper (1/4 cup, diced), Onion (1/4 cup, diced), Turmeric powder, Cumin powder, Nutritional yeast (2 tbsp)
+
+Recipe: Vegan Berry Smoothie Bowl
+Category: Breakfast
+Calories: 300
+Carbs: 50g
+Protein: 10g
+Fats: 8g
+Dietary Tags: Vegan
+Ingredients: Mixed berries (1 cup, frozen), Banana, Spinach (1/2 cup), Almond milk (1/2 cup), Chia seeds (1 tbsp), Toppings: sliced almonds, coconut flakes, mixed berries
+
+Recipe: Gluten-Free Banana Nut Bread
+Category: Breakfast
+Calories: 220
+Carbs: 30g
+Protein: 5g
+Fats: 10g
+Dietary Tags: Gluten-free
+Ingredients: Gluten-free flour blend (1 cup), Ripe bananas (2), Chopped nuts (1/4 cup), Maple syrup (1/4 cup), Baking soda, Vanilla extract
+
+Recipe: Gluten-Free Zucchini Pancakes
+Category: Breakfast
+Calories: 240
+Carbs: 25g
+Protein: 7g
+Fats: 14g
+Dietary Tags: Gluten-free
+Ingredients: Grated zucchini (1 cup), Gluten-free flour blend (1/2 cup), Eggs (2), Baking powder, Salt, Olive oil for cooking
+
+Recipe: Gluten-Free Oatmeal with Almond Butter
+Category: Breakfast
+Calories: 280
+Carbs: 35g
+Protein: 7g
+Fats: 12g
+Dietary Tags: Gluten-free
+Ingredients: Gluten-free rolled oats (1/2 cup), Almond milk (1 cup), Almond butter (2 tbsp), Sliced bananas, Chopped almonds
+
+Recipe: Gluten-Free Spinach and Mushroom Breakfast Wrap
+Category: Breakfast
+Calories: 280
+Carbs: 25g
+Protein: 10g
+Fats: 16g
+Dietary Tags: Gluten-free
+Ingredients: Rice tortilla or lettuce leaves, Scrambled eggs (2), Sautéed spinach and mushrooms, Dairy-free cheese (optional)
+
+Recipe: Gluten-Free Overnight Chia Pudding
+Category: Breakfast
+Calories: 250
+Carbs: 20g
+Protein: 7g
+Fats: 15g
+Dietary Tags: Gluten-free
+Ingredients: Chia seeds (3 tbsp), Almond milk (1 cup), Vanilla extract, Mixed berries, Chopped nuts (1 oz)
+
+Recipe: Gluten-Free Banana Pancakes
+Category: Breakfast
+Calories: 300
+Carbs: 45g
+Protein: 10g
+Fats: 10g
+Dietary Tags: Gluten-free
+Ingredients: Ripe bananas (2), Eggs (2), Almond flour (1/2 cup),  Baking powder (1 tsp), Cinnamon (1/2 tsp), Vanilla extract
+
+Recipe: Gluten-Free Oatmeal with Berries
+Category: Breakfast
+Calories: 300
+Carbs: 45g
+Protein: 8g
+Fats: 10g
+Dietary Tags: Gluten-free
+Ingredients:  Gluten-free rolled oats (1/2 cup), Almond milk (1 cup), Mixed berries, Chia seeds (1 tbsp), Honey drizzle
+
+Recipe: Dairy-Free Banana Walnut Muffins
+Category: Breakfast
+Calories: 280 (per muffin)
+Carbs: 35g
+Protein: 6g
+Fats: 14g
+Dietary Tags: Dairy-free
+Ingredients: Gluten-free flour blend (1 cup), Ripe bananas, Chopped walnuts, Almond milk (1/2 cup), Coconut oil (1/4 cup), Maple syrup
+
+Recipe: Dairy-Free Acai Bowl
+Category: Breakfast
+Calories: 290
+Carbs: 45g
+Protein: 6g
+Fats: 10g
+Dietary Tags: Dairy-free
+Ingredients: Frozen acai puree (1 packet), Almond milk (1/2 cup), Mixed berries, Banana, Granola, Coconut flakes
+
+Recipe: Dairy-Free Rice Cake Delight
+Category: Breakfast
+Calories: 250
+Carbs: 40g
+Protein: 4g
+Fats: 8g
+Dietary Tags: Dairy-free
+Ingredients: Rice cakes (2), Almond butter, Sliced strawberries, Drizzle of honey, Chopped nuts
+
+Recipe: Dairy-Free Pumpkin Spice Smoothie
+Category: Breakfast
+Calories: 290
+Carbs: 40g
+Protein: 10g
+Fats: 10g
+Dietary Tags: Dairy-free
+Ingredients: Almond milk (1 cup), Canned pumpkin puree (1/2 cup), Banana, Medjool dates (2), Pumpkin spice blend, Chia seeds (1 tbsp)
+
+Recipe: Dairy-Free Coconut Chia Pudding
+Category: Breakfast
+Calories: 250
+Carbs: 20g
+Protein: 5g
+Fats: 18g
+Dietary Tags: Dairy-free
+Ingredients: Chia seeds (3 tbsp), Coconut milk (1 cup), Vanilla extract, Fresh fruit for topping
+
+Recipe: Dairy-Free Scrambled Tofu
+Category: Breakfast
+Calories: 300
+Carbs: 15g
+Protein: 15g
+Fats: 20g
+Dietary Tags: Dairy-free
+Ingredients:  Firm tofu (1/2 block), Mixed vegetables (e.g., bell peppers, onions, spinach), Turmeric powder, cumin, paprika, Olive oil for cooking
+
+Recipe: Coconut Yogurt Parfait
+Category: Breakfast
+Calories: 350
+Carbs: 40g
+Protein: 10g
+Fats: 18g
+Dietary Tags: Dairy-free
+Ingredients: Dairy-free coconut yogurt (1 cup), Mixed berries, Granola, Chopped nuts (1 oz), Honey drizzle
+
+Recipe: English Muffin with Poached Egg
+Category: Breakfast
+Calories: 230
+Carbs: 25g
+Protein: 12g
+Fats: 9g
+Dietary Tags: None
+Ingredients: Whole wheat English muffin, Poached egg, Sliced tomato, Fresh herbs
+
+Recipe: Breakfast Parfait
+Category: Breakfast
+Calories: 260
+Carbs: 30g
+Protein: 10g
+Fats: 12g
+Dietary Tags: None
+Ingredients: Greek yogurt (1 cup), Mixed berries, Granola, Chopped nuts
+
+Recipe: Apple Cinnamon Oatmeal
+Category: Breakfast
+Calories: 280
+Carbs: 50g
+Protein: 6g
+Fats: 4g
+Dietary Tags: None
+Ingredients: Rolled oats (1/2 cup), Milk or milk substitute (1 cup), Sliced apple, Cinnamon, Chopped nuts
+
+Recipe: Breakfast Salad
+Category: Breakfast
+Calories: 230
+Carbs: 20g
+Protein: 10g
+Fats: 14g
+Dietary Tags: None
+Ingredients: Mixed greens, Hard-boiled egg, Sliced avocado, Cherry tomatoes, Balsamic vinaigrette
+
+Recipe: Classic Oatmeal with Fruit
+Category: Breakfast
+Calories: 300
+Carbs: 50g
+Protein: 8g
+Fats: 6g
+Dietary Tags: None
+Ingredients: Rolled oats (1/2 cup), Milk or milk substitute (1 cup), Sliced bananas or berries, Chopped nuts (1 oz)
+
+Recipe: Simple Avocado Toast
+Category: Breakfast
+Calories: 250
+Carbs: 20g
+Protein: 5g
+Fats: 18g
+Dietary Tags: None
+Ingredients: Whole wheat bread, Avocado, Salt and pepper, Optional toppings: Sliced tomatoes, red pepper flakes
+
+Recipe: Classic Omelette
+Category: Breakfast
+Calories: 300
+Carbs: 5g
+Protein: 20g
+Fats: 22g
+Dietary Tags: None
+Ingredients: Eggs (2-3), Chopped vegetables (bell peppers, onions, tomatoes), Salt, pepper, and herbs, with whole wheat toast or fruit on the side
+
+Recipe: Mediterranean Pita Pocket
+Category: Lunch
+Calories: 310
+Carbs: 40g
+Protein: 10g
+Fats: 14g
+Dietary Tags: Vegetarian
+Ingredients: Whole wheat pita pocket, Hummus spread, Sliced cucumber, tomato, red onion
+
+Recipe: Grilled Vegetable Panini
+Category: Lunch
+Calories: 320
+Carbs: 35g
+Protein: 12g
+Fats: 14g
+Dietary Tags: Vegetarian
+Ingredients: Grilled vegetables (zucchini, eggplant, bell peppers), Fresh mozzarella cheese, Pesto spread, Whole wheat bread
+
+Recipe: Mediterranean Flatbread
+Category: Lunch
+Calories: 330
+Carbs: 40g
+Protein: 10g
+Fats: 15g
+Dietary Tags: Vegetarian
+Ingredients: Whole wheat flatbread, Hummus spread, Sliced cucumber, tomato, red onion, Kalamata olives, Feta cheese
+
+Recipe: Greek Couscous Salad
+Category: Lunch
+Calories: 330
+Carbs: 40g
+Protein: 10g
+Fats: 14g
+Dietary Tags: Vegetarian
+Ingredients: Cooked couscous, Cherry tomatoes, cucumber, red onion, Kalamata olives, Feta cheese, Greek dressing
+
+Recipe: Veggie Wrap with Hummus
+Category: Lunch
+Calories: 300
+Carbs: 35g
+Protein: 8g
+Fats: 15g
+Dietary Tags: Vegetarian
+Ingredients:  Whole wheat wrap or tortilla (1), Hummus spread, Sliced bell peppers, cucumber, shredded carrots,  Baby spinach or mixed greens
+
+Recipe: Vegetarian Stir-Fry
+Category: Lunch
+Calories: 380
+Carbs: 50g
+Protein: 12g
+Fats: 15g
+Dietary Tags: Vegetarian
+Ingredients: Mixed vegetables (e.g., broccoli, bell peppers, snap peas), Tofu or tempeh, cubed, Stir-fry sauce (soy sauce, ginger, garlic), Served over brown rice or quinoa
+
+Recipe: Mediterranean Quinoa Salad
+Category: Lunch
+Calories: 350
+Carbs: 40g
+Protein: 10g
+Fats: 18g
+Dietary Tags: Vegetarian
+Ingredients: Cooked quinoa (1 cup), Chopped cucumber, tomato, red onion, Kalamata olives and crumbled feta cheese, Fresh parsley and lemon vinaigrette
+
+Recipe: Vegan Falafel Wrap with Tahini Sauce
+Category: Lunch
+Calories: 320
+Carbs: 40g
+Protein: 10g
+Fats: 14g
+Dietary Tags: Vegan
+Ingredients: Whole wheat wrap, Falafel patties, Sliced cucumber, tomato, red onion, Vegan tahini sauce, Mixed greens
+
+Recipe: Vegan Teriyaki Tofu Bowl
+Category: Lunch
+Calories: 340
+Carbs: 45g
+Protein: 15g
+Fats: 12g
+Dietary Tags: Vegan
+Ingredients: Brown rice, Teriyaki marinated tofu, Mixed vegetables (e.g., broccoli, bell peppers, carrots), Edamame beans
+
+Recipe: Vegan Chickpea and Avocado Wrap
+Category: Lunch
+Calories: 320
+Carbs: 40g
+Protein: 12g
+Fats: 15g
+Dietary Tags: Vegan
+Ingredients: Whole wheat wrap, Chickpeas, Sliced avocado, Diced tomato, Red onion, Mixed greens
+
+Recipe: Vegan Quinoa and Veggie Stir-Fry
+Category: Lunch
+Calories: 340
+Carbs: 40g
+Protein: 12g
+Fats: 15g
+Dietary Tags: Vegan
+Ingredients: Cooked quinoa, Mixed vegetables (e.g., broccoli, bell peppers, carrots), Teriyaki sauce, Sesame seeds
+
+Recipe: Vegan Chickpea Tacos
+Category: Lunch
+Calories: 380
+Carbs: 45g
+Protein: 10g
+Fats: 15g
+Dietary Tags: Vegan
+Ingredients: Canned chickpeas (1 cup, drained and rinsed), Taco seasoning (cumin, paprika, chili powder), Sliced avocado, shredded lettuce, diced tomato, Corn tortillas
+
+Recipe: Vegan Lentil Salad
+Category: Lunch
+Calories: 320
+Carbs: 40g
+Protein: 15g
+Fats: 12g
+Dietary Tags: Vegan
+Ingredients: Cooked green or brown lentils (1 cup), Diced bell peppers, cucumber, red onion, Fresh parsley and lemon-tahini dressing
+
+Recipe: Vegan Mediterranean Wrap
+Category: Lunch
+Calories: 350
+Carbs: 40g
+Protein: 8g
+Fats: 18g
+Dietary Tags: Vegan
+Ingredients: Whole wheat wrap or tortilla (1), Hummus spread, Sliced cucumber, tomato, red onion, Kalamata olives and chopped fresh parsley
+
+Recipe: Grilled Steak Salad
+Category: Lunch
+Calories: 360
+Carbs: 25g
+Protein: 30g
+Fats: 18g
+Dietary Tags: Gluten-free
+Ingredients: Grilled steak slices, Mixed greens, Sliced bell peppers, Red onion, Blue cheese crumbles, Balsamic vinaigrette
+
+Recipe: Tuna and White Bean Salad
+Category: Lunch
+Calories: 300
+Carbs: 30g
+Protein: 20g
+Fats: 12g
+Dietary Tags: Gluten-free
+Ingredients: Canned tuna, White beans (cannellini beans), Diced red onion, Diced bell peppers, Italian dressing
+
+Recipe: Greek Chicken and Vegetable Skewers
+Category: Lunch
+Calories: 320
+Carbs: 20g
+Protein: 25g
+Fats: 15g
+Dietary Tags: Gluten-free
+Ingredients: Grilled chicken and vegetable skewers, Tzatziki sauce, Served with a side salad
+
+Recipe: Smoked Salmon Wrap
+Category: Lunch
+Calories: 320
+Carbs: 25g
+Protein: 18g
+Fats: 18g
+Dietary Tags: Gluten-free
+Ingredients: Smoked salmon, Cream cheese or dairy-free alternative, Sliced cucumber, Sliced red onion, Wrapped in a gluten-free wrap or lettuce
+
+Recipe: Turkey Lettuce Wraps with Avocado
+Category: Lunch
+Calories: 280
+Carbs: 15g
+Protein: 25g
+Fats: 15g
+Dietary Tags: Gluten-free
+Ingredients: Ground turkey or chicken, Lettuce leaves (e.g., iceberg or butter lettuce), Sliced avocado, shredded carrots, and sliced cucumber, Gluten-free soy sauce or tamari
+
+Recipe: Grilled Shrimp Salad
+Category: Lunch
+Calories: 320
+Carbs: 20g
+Protein: 25g
+Fats: 15g
+Dietary Tags: Gluten-free
+Ingredients: Grilled shrimp, Mixed greens, Sliced avocado and cherry tomatoes, Sliced almonds and balsamic vinaigrette
+
+Recipe: Balsamic Grilled Vegetable Wrap
+Category: Lunch
+Calories: 280
+Carbs: 35g
+Protein: 8g
+Fats: 12g
+Dietary Tags: Gluten-free
+Ingredients: Grilled vegetables (e.g., eggplant, zucchini, bell peppers), Hummus spread and mixed greens, Gluten-free wrap or collard greens as wrap
+
+Recipe: Spicy Chickpea Lettuce Wraps
+Category: Lunch
+Calories: 330
+Carbs: 40g
+Protein: 12g
+Fats: 12g
+Dietary Tags: Dairy-free
+Ingredients: Spicy chickpeas (canned or cooked), Lettuce leaves, Sliced cucumber, red onion, Served with a dairy-free yogurt dressing
+
+Recipe: Grilled Portobello Mushroom Burger
+Category: Lunch
+Calories: 350
+Carbs: 30g
+Protein: 15g
+Fats: 20g
+Dietary Tags: Dairy-free
+Ingredients: Grilled portobello mushroom cap, Whole wheat bun, Sliced tomato, red onion, lettuce, Served with a side salad
+
+Recipe: Rice Paper Rolls with Peanut Sauce
+Category: Lunch
+Calories: 320
+Carbs: 40g
+Protein: 12g
+Fats: 12g
+Dietary Tags: Dairy-free
+Ingredients: Rice paper wraps, Shredded lettuce, Sliced bell peppers, cucumber, carrots, Fresh herbs (mint, cilantro), Peanut dipping sauce
+
+Recipe: Quinoa and Roasted Vegetable Bowl
+Category: Lunch
+Calories: 360
+Carbs: 45g
+Protein: 10g
+Fats: 16g
+Dietary Tags: Dairy-free
+Ingredients: Cooked quinoa, Roasted vegetables (e.g., zucchini, bell peppers, eggplant), Olive oil and balsamic vinegar drizzle
+
+Recipe: Thai Coconut Curry
+Category: Lunch
+Calories: 380
+Carbs: 40g
+Protein: 15g
+Fats: 18g
+Dietary Tags: Dairy-free
+Ingredients:  Mixed vegetables (e.g., bell peppers, broccoli, carrots), Tofu or chickpeas, Coconut milk, red curry paste, and lime juice, brown rice or rice noodles
+
+Recipe: Chickpea and Vegetable Stir-Fry
+Category: Lunch
+Calories: 350
+Carbs: 45g
+Protein: 12g
+Fats: 15g
+Dietary Tags: Dairy-free
+Ingredients: Chickpeas (1 cup, cooked), Mixed vegetables (e.g., bell peppers, snap peas, carrots), Stir-fry sauce (gluten-free and dairy-free), quinoa or rice
+
+Recipe: Black Bean and Avocado Salad
+Category: Lunch
+Calories: 320
+Carbs: 35g
+Protein: 12g
+Fats: 15g
+Dietary Tags: Dairy-free
+Ingredients:  Black beans (1 cup, cooked), Diced avocado, red onion, and tomato, Fresh cilantro and lime vinaigrette
+
+Recipe: Pesto Pasta Salad
+Category: Lunch
+Calories: 330
+Carbs: 45g
+Protein: 10g
+Fats: 12g
+Dietary Tags: None
+Ingredients: Cooked pasta, cherry tomatoes, diced mozzarella cheese, black olives, basil pesto dressing
+
+Recipe: Turkey and Bacon Salad
+Category: Lunch
+Calories: 360
+Carbs: 20g
+Protein: 28g
+Fats: 20g
+Dietary Tags: None
+Ingredients: Sliced turkey breast, bacon bits, mixed greens, cherry tomatoes, shredded cheddar cheese, ranch dressing
+
+Recipe: Grilled Vegetable and Hummus Wrap
+Category: Lunch
+Calories: 330
+Carbs: 45g
+Protein: 8g
+Fats: 15g
+Dietary Tags: None
+Ingredients: Grilled vegetables (eggplant, zucchini, bell peppers), hummus spread, mixed greens, whole wheat wrap or tortilla
+
+Recipe: Classic Turkey and Cheese Sandwich
+Category: Lunch
+Calories: 290
+Carbs: 25g
+Protein: 20g
+Fats: 12g
+Dietary Tags: None
+Ingredients: Sliced turkey breast, Cheese, Lettuce, Tomato, Whole wheat bread, Mustard or mayo
+
+Recipe: Asian Rice Noodle Salad
+Category: Lunch
+Calories: 350
+Carbs: 45g
+Protein: 15g
+Fats: 12g
+Dietary Tags: None
+Ingredients: Rice noodles, sliced veggies (carrots, bell peppers, cabbage), Edamame beans and chopped cilantro, Sesame ginger dressing
+
+Recipe: Caprese Stuffed Avocado
+Category: Lunch
+Calories: 320
+Carbs: 10g
+Protein: 8g
+Fats: 28g
+Dietary Tags: None
+Ingredients:  Ripe avocado (halved and pitted), Cherry tomatoes, mozzarella cheese, fresh basil, Balsamic reduction drizzle, Optional: Grilled chicken or tofu for extra protein
+
+Recipe: Grilled Chicken Salad
+Category: Lunch
+Calories: 350
+Carbs: 25g
+Protein: 30g
+Fats: 15g
+Dietary Tags: None
+Ingredients: Grilled chicken breast, Mixed greens, cherry tomatoes, cucumber, Balsamic vinaigrette dressing
+
+Recipe: Spinach and Feta Stuffed Portobello Mushrooms
+Category: Dinner
+Calories: 310
+Carbs: 20g
+Protein: 15g
+Fats: 20g
+Dietary Tags: Vegetarian
+Ingredients: Portobello mushroom caps stuffed with sautéed spinach, feta cheese, and breadcrumbs, baked until golden
+
+Recipe: Mushroom and Spinach Stuffed Shells
+Category: Dinner
+Calories: 350
+Carbs: 40g
+Protein: 15g
+Fats: 14g
+Dietary Tags: Vegetarian
+Ingredients: Jumbo pasta shells stuffed with sautéed mushrooms, spinach, ricotta cheese, and baked in marinara sauce
+
+Recipe: Veggie Pad Thai
+Category: Dinner
+Calories: 360
+Carbs: 45g
+Protein: 12g
+Fats: 15g
+Dietary Tags: Vegetarian
+Ingredients: Rice noodles stir-fried with tofu, bean sprouts, bell peppers, and a tangy peanut sauce
+
+Recipe: Butternut Squash Risotto
+Category: Dinner
+Calories: 380
+Carbs: 50g
+Protein: 10g
+Fats: 15g
+Dietary Tags: Vegetarian
+Ingredients: Arborio rice cooked with vegetable broth, roasted butternut squash, sage, and Parmesan cheese
+
+Recipe: Chickpea and Spinach Curry
+Category: Dinner
+Calories: 380
+Carbs: 50g
+Protein: 15g
+Fats: 12g
+Dietary Tags: Vegetarian
+Ingredients: Canned chickpeas, Spinach, onion, garlic, tomatoes, Curry spices (turmeric, cumin, coriander), Served with basmati rice or naan bread
+
+Recipe: Sweet Potato and Black Bean Tacos
+Category: Dinner
+Calories: 350
+Carbs: 45g
+Protein: 10g
+Fats: 12g
+Dietary Tags: Vegetarian
+Ingredients:  Roasted sweet potato cubes, Black beans, diced avocado, red cabbage, Salsa and Greek yogurt drizzle, Whole wheat tortillas
+
+Recipe: Creamy Spinach and Mushroom Pasta
+Category: Dinner
+Calories: 370
+Carbs: 45g
+Protein: 12g
+Fats: 15g
+Dietary Tags: Vegetarian
+Ingredients: Whole wheat pasta, sautéed mushrooms and spinach in a creamy Alfredo-style sauce, topped with Parmesan cheese
+
+Recipe: Vegan Mexican Stuffed Peppers
+Category: Dinner
+Calories: 340
+Carbs: 40g
+Protein: 12g
+Fats: 15g
+Dietary Tags: Vegan
+Ingredients: Bell peppers stuffed with a mixture of quinoa, black beans, corn, tomatoes, and spices, topped with avocado and salsa.
+
+Recipe: Vegan Ratatouille
+Category: Dinner
+Calories: 320
+Carbs: 35g
+Protein: 8g
+Fats: 18g
+Dietary Tags: Vegan
+Ingredients: Eggplant, zucchini, bell peppers, tomatoes, onions, garlic, herbs, served with crusty whole grain bread.
+
+Recipe: Vegan Eggplant Parmesan
+Category: Dinner
+Calories: 320
+Carbs: 35g
+Protein: 12g
+Fats: 15g
+Dietary Tags: Vegan
+Ingredients: Breaded and baked eggplant slices layered with marinara sauce and vegan mozzarella, served with spaghetti.
+
+Recipe: Vegan Black Bean and Veggie Burger
+Category: Dinner
+Calories: 350
+Carbs: 40g
+Protein: 15g
+Fats: 12g
+Dietary Tags: Vegan
+Ingredients: Homemade black bean and vegetable burger patty, whole wheat bun, lettuce, tomato, onion.
+
+Recipe: Vegan Cauliflower Alfredo Pasta
+Category: Dinner
+Calories: 350
+Carbs: 45g
+Protein: 10g
+Fats: 15g
+Dietary Tags: Vegan
+Ingredients: Cauliflower florets (blended into creamy sauce),Whole wheat pasta, garlic, nutritional yeast, Sautéed spinach and cherry tomatoes
+
+Recipe: Vegan Portobello Mushroom Steak
+Category: Dinner
+Calories: 300
+Carbs: 25g
+Protein: 12g
+Fats: 18g
+Dietary Tags: Vegan
+Ingredients: Portobello mushroom caps (marinated and grilled), Roasted vegetables, balsamic glaze, Served with quinoa or mashed cauliflower
+
+Recipe: Vegan Stuffed Bell Peppers
+Category: Dinner
+Calories: 320
+Carbs: 40g
+Protein: 10g
+Fats: 15g
+Dietary Tags: Vegan
+Ingredients: Bell peppers (cut in half and deseeded), Quinoa, black beans, corn, onion, garlic, Tomato sauce and plant-based cheese
+
+Recipe: BBQ Grilled Ribs with Roasted Potatoes
+Category: Dinner
+Calories: 380
+Carbs: 40g
+Protein: 20g
+Fats: 15g
+Dietary Tags: Gluten-free
+Ingredients: BBQ grilled pork ribs, roasted baby potatoes, coleslaw.
+
+Recipe: Gluten-Free Veggie Lasagna
+Category: Dinner
+Calories: 350
+Carbs: 40g
+Protein: 15g
+Fats: 15g
+Dietary Tags: Gluten-free
+Ingredients: Gluten-free lasagna noodles, layers of ricotta cheese, sautéed spinach, marinara sauce, and melted mozzarella.
+
+Recipe: Gluten-Free Beef and Broccoli Stir-Fry
+Category: Dinner
+Calories: 340
+Carbs: 30g
+Protein: 25g
+Fats: 14g
+Dietary Tags: Gluten-free
+Ingredients: Sliced beef, broccoli florets, gluten-free stir-fry sauce, served over steamed rice.
+
+Recipe: Grilled Lemon Garlic Shrimp
+Category: Dinner
+Calories: 320
+Carbs: 15g
+Protein: 30g
+Fats: 15g
+Dietary Tags: Gluten-free
+Ingredients: Grilled shrimp marinated in lemon, garlic, and herbs, Served with roasted potatoes and steamed green beans.
+
+Recipe: Gluten-Free Thai Basil Tofu Stir-Fry
+Category: Dinner
+Calories: 300
+Carbs: 35g
+Protein: 15g
+Fats: 12g
+Dietary Tags: Gluten-free
+Ingredients: Cubed tofu, mixed vegetables, Thai basil sauce (gluten-free soy sauce, garlic, chili), Served over steamed rice or rice noodles
+
+Recipe: Gluten-Free Baked Salmon with Quinoa Pilaf
+Category: Dinner
+Calories: 360
+Carbs: 40g
+Protein: 25g
+Fats: 14g
+Dietary Tags: Gluten-free
+Ingredients: Baked salmon fillet, Quinoa pilaf with chopped vegetables, Lemon-dill dressing
+
+Recipe: Gluten-Free Vegetable Stir-Fry
+Category: Dinner
+Calories: 280
+Carbs: 40g
+Protein: 8g
+Fats: 10g
+Dietary Tags: Gluten-free
+Ingredients: Mixed vegetables (broccoli, bell peppers, carrots), Gluten-free tamari sauce, garlic, ginger,  Served over rice noodles
+
+Recipe: Dairy-Free Lemon Herb Grilled Chicken
+Category: Dinner
+Calories: 320
+Carbs: 15g
+Protein: 30g
+Fats: 15g
+Dietary Tags: Dairy-free
+Ingredients: Grilled chicken marinated in lemon, herbs, and olive oil, served with quinoa and roasted asparagus.
+
+Recipe: Dairy-Free Mediterranean Chickpea Stew
+Category: Dinner
+Calories: 360
+Carbs: 45g
+Protein: 12g
+Fats: 15g
+Dietary Tags: Dairy-free
+Ingredients: Chickpeas, mixed vegetables, diced tomatoes, Mediterranean spices (oregano, thyme), Served with crusty dairy-free bread.
+
+Recipe: Dairy-Free Spicy Black Bean Bowl
+Category: Dinner
+Calories: 330
+Carbs: 40g
+Protein: 15g
+Fats: 12g
+Dietary Tags: Dairy-free
+Ingredients: Black beans, diced avocado, salsa, brown rice, Served with dairy-free sour cream or yogurt.
+
+Recipe: Dairy-Free Thai Red Curry with Tofu
+Category: Dinner
+Calories: 380
+Carbs: 40g
+Protein: 15g
+Fats: 18g
+Dietary Tags: Dairy-free
+Ingredients: Cubed tofu, mixed vegetables, Thai red curry paste, coconut milk, Served over jasmine rice.
+
+Recipe: Dairy-Free Moroccan Lentil Stew
+Category: Dinner
+Calories: 350
+Carbs: 45g
+Protein: 15g
+Fats: 10g
+Dietary Tags: Dairy-free
+Ingredients: Red lentils, mixed vegetables, Moroccan-inspired spices, vegetable broth, Served over quinoa or couscous
+
+Recipe: Dairy-Free Thai Vegetable Noodle Stir-Fry
+Category: Dinner
+Calories: 320
+Carbs: 45g
+Protein: 10g
+Fats: 12g
+Dietary Tags: Dairy-free
+Ingredients: Rice noodles, mixed vegetables, Thai-inspired sauce (coconut milk, peanut butter, lime), Tofu or tempeh for added protein
+
+Recipe: Dairy-Free Portobello Mushroom Burgers
+Category: Dinner
+Calories: 250
+Carbs: 30g
+Protein: 10g
+Fats: 10g
+Dietary Tags: Dairy-free
+Ingredients: Grilled portobello mushrooms (as burger buns), Black bean and quinoa patty, lettuce, tomato, Dairy-free aioli, served with a side salad
+
+Recipe: Classic Beef Tacos
+Category: Dinner
+Calories: 350
+Carbs: 30g
+Protein: 20g
+Fats: 15g
+Dietary Tags: None
+Ingredients: Seasoned ground beef, taco shells, shredded lettuce, diced tomatoes, shredded cheese, Served with salsa and sour cream.
+
+Recipe: Grilled Steak with Garlic Mashed Potatoes
+Category: Dinner
+Calories: 380
+Carbs: 35g
+Protein: 30g
+Fats: 15g
+Dietary Tags: None
+Ingredients: Grilled steak, garlic mashed potatoes, steamed green beans, Served with a side salad.
+
+Recipe: Spaghetti Carbonara
+Category: Dinner
+Calories: 350
+Carbs: 40g
+Protein: 15g
+Fats: 15g
+Dietary Tags: None
+Ingredients: Spaghetti, bacon, eggs, grated cheese, black pepper, Served with a side salad.
+
+Recipe: Balsamic Glazed Salmon with Roasted Vegetables
+Category: Dinner
+Calories: 360
+Carbs: 30g
+Protein: 30g
+Fats: 15g
+Dietary Tags: None
+Ingredients: Baked salmon fillet with balsamic glaze, Roasted vegetables (broccoli, carrots, bell peppers), Served with brown rice.
+
+Recipe: Grilled Chicken and Vegetable Skewers
+Category: Dinner
+Calories: 300
+Carbs: 20g
+Protein: 25g
+Fats: 15g
+Dietary Tags: None
+Ingredients: Marinated chicken breast and mixed vegetables, Grilled on skewers, served with a side of quinoa
+
+Recipe: Pesto Pasta with Cherry Tomatoes
+Category: Dinner
+Calories: 350
+Carbs: 40g
+Protein: 10g
+Fats: 15g
+Dietary Tags: None
+Ingredients: Whole wheat pasta, dairy-free pesto, Cherry tomatoes, fresh basil, pine nuts
+
+Recipe: Quinoa and Black Bean Bowl
+Category: Dinner
+Calories: 320
+Carbs: 45g
+Protein: 15g
+Fats: 10g
+Dietary Tags: None
+Ingredients: Quinoa, black beans, mixed vegetables, Avocado slices, salsa, cilantro for garnish

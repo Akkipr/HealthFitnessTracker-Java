@@ -1,0 +1,6 @@
+
+
+New Client: Full Name: User, Gender: M, Ideal Body Weight : 2.3159999999999954, Body Mass Index : 317, Total Calories : 5051.82073468875, Required protein intake : 314.2857142857143, Height in Cm: 100.0, Weight in lbs: 700, Age: 26, Outdoor Hobby: Socer, Medical Condition: No, Medical Conditions Type: N/A, Diet Preferences: None, Addictions: No, Pregnant: No
+Current Limits: ProgressTracker{ Previous Weight: 900, Current Weight: 400, Current BMI: 317 lbs, Current Squat Count: 1, Current Max Plank: 1 seconds, Current Pushup Count: 1, Current Treadmill: 1 seconds}
+Current Limits: ProgressTracker{ Previous Weight: 700, Current Weight: 900, Current BMI: 317 lbs, Current Squat Count: 6, Current Max Plank: 7 seconds, Current Pushup Count: 8, Current Treadmill: 9 seconds}
+Starting Limits: FitnessPlan{ Target Weight: 200 lbs, Current Weight: 700, Current BMI: 317, Squat Count: 5, Max Plank: 4 seconds, Pushup Count: 6, Treadmill: 3}
