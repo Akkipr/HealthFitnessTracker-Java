@@ -51,7 +51,7 @@
 * AI-driven recommendations for better personalization.
 
 <p align="center">
-  <img src="target/Welcome.jpg" alt="Welcome" width="15%">
+  <img src="target/Welcome.jpg" alt="Welcome" width="41%">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="target/Start.jpg" alt="Start" width="17%">
+  <img src="target/Start.jpg" alt="Start" width="40%">
 </p>
