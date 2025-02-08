@@ -49,3 +49,9 @@
 * Mobile-friendly version using JavaFX or Android development.
 
 * AI-driven recommendations for better personalization.
+
+<p align="center">
+  <img src="target/Welcome.jpg" alt="Welcome" width="15%">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="target/Start.jpg" alt="Start" width="17%">
+</p>
